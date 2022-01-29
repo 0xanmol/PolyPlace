@@ -6,8 +6,10 @@ function MyApp({ Component, pageProps }) {
   return (
     <div className="bg-black text-white">
       <nav className="border-b p-6 bg-black">
-        <p className="text-4xl font-bold text-white">PolyPlace</p>
-        <div className="flex mt-4">
+        <div className="flex-row">
+          <p className="text-4xl font-bold text-white">PolyPlace</p>
+        </div>
+        <div className="flex-row mt-4">
           <Link href="/">
             <a className="mr-4 text-pink-500 hover:text-sky-400">
               Home
