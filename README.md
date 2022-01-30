@@ -1,5 +1,21 @@
 ## Full stack NFT marketplace built with Polygon, Solidity, IPFS, & Next.js
 
+## Demo Screenshots
+***Home Page***
+![demo2](https://github.com/ANMOLCODES/PolyPlace/blob/master/Screenshots/HomePage.png)
+
+
+***NFT Minter***
+![demo3](https://github.com/ANMOLCODES/PolyPlace/blob/master/Screenshots/NFTMinter.png)
+
+***Buy NFT***
+![demo1](https://github.com/ANMOLCODES/PolyPlace/blob/master/Screenshots/BuyingNFT.png)
+
+***User Assets Page***
+![demo4](https://github.com/ANMOLCODES/PolyPlace/blob/master/Screenshots/UsersAssets.png)
+
+
+
 ### Running this project
 
 #### Gitpod
